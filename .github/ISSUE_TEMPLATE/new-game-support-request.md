@@ -1,14 +1,14 @@
 ---
 name: New game support request
 about: Request a new game support
-title: Support for [Game name here]
+title: Support for [Hollow Knight]
 labels: new game support
-assignees: ''
+assignees: 'P1naro'
 
 ---
 
 <!-- Add the game name below and to the issue title field -->
-## Game name: 
+## Game name: Hollow Knight
 
 <!--
 Game saves from the Xbox Game Pass / Microsoft Store version are needed to add support for the game.
@@ -35,7 +35,7 @@ If you have the Steam / Epic version of the game installed, and have save files 
 Add the game package name here.
 The game package name is something that resembles "DeveloperOrPublisherName.PossibleGameName_RandomLettersAndNumbers", e.g. "BethesdaSoftworks.ProjectGold_3275kfvn8vcwc" for Starfield
 -->
-## Game package name: 
+## Game package name: 	%PROGRAMDATA%\Packages\TeamCherry.HollowKnightPC_y4jvztpgccj42\
 
 <!--
 Remember to include the created zip file either in this issue or by sending it to @Z1ni (https://github.com/Z1ni) via email (check the user profile) or by sharing it in Google Drive or similar. You can use the same email address from the profile.
